@@ -1,0 +1,8 @@
+build/
+.vscode/launch.json
+dist/
+xlsx
+csv
+*.xlsx
+*.csv
+script.spec
